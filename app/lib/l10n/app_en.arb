@@ -1,0 +1,808 @@
+{
+  "@@locale": "en",
+  
+  "appTitle": "Sakura Connect",
+  "@appTitle": {
+    "description": "Main application title"
+  },
+
+  "heroTitle": "Sakura Connect",
+  "@heroTitle": {
+    "description": "Hero section title"
+  },
+
+  "heroSubtitle": "Your streaming companion",
+  "@heroSubtitle": {
+    "description": "Hero section subtitle"
+  },
+
+  "enterTextToTranslate": "Enter text to translate",
+  "@enterTextToTranslate": {
+    "description": "Translation section title"
+  },
+
+  "inputPlaceholder": "Type your message here...",
+  "@inputPlaceholder": {
+    "description": "Text input placeholder"
+  },
+
+  "translateButton": "Translate",
+  "@translateButton": {
+    "description": "Translate button text"
+  },
+
+  "translatingButton": "Translating...",
+  "@translatingButton": {
+    "description": "Translate button text when loading"
+  },
+
+  "translationResult": "Translation Result",
+  "@translationResult": {
+    "description": "Translation result section title"
+  },
+
+  "featuresTitle": "Features",
+  "@featuresTitle": {
+    "description": "Features section title"
+  },
+
+  "aiTranslationTitle": "AI Translation",
+  "@aiTranslationTitle": {
+    "description": "AI Translation feature title"
+  },
+
+  "aiTranslationDescription": "Powered by advanced AI models",
+  "@aiTranslationDescription": {
+    "description": "AI Translation feature description"
+  },
+
+  "socialReadyTitle": "Social Ready",
+  "@socialReadyTitle": {
+    "description": "Social Ready feature title"
+  },
+
+  "socialReadyDescription": "Optimized for social platforms",
+  "@socialReadyDescription": {
+    "description": "Social Ready feature description"
+  },
+
+  "errorInvalidText": "Please enter valid text to translate",
+  "@errorInvalidText": {
+    "description": "Error message for invalid text input"
+  },
+
+  "errorTranslationFailed": "Translation failed. Please try again.",
+  "@errorTranslationFailed": {
+    "description": "Error message when translation fails"
+  },
+
+  "languageEnglish": "English",
+  "@languageEnglish": {
+    "description": "English language name"
+  },
+
+  "languageSpanish": "Spanish",
+  "@languageSpanish": {
+    "description": "Spanish language name"
+  },
+
+  "languageFrench": "French",
+  "@languageFrench": {
+    "description": "French language name"
+  },
+
+  "languageGerman": "German",
+  "@languageGerman": {
+    "description": "German language name"
+  },
+
+  "languageChinese": "Simplified Chinese",
+  "@languageChinese": {
+    "description": "Simplified Chinese language name"
+  },
+
+  "languageJapanese": "Japanese",
+  "@languageJapanese": {
+    "description": "Japanese language name"
+  },
+
+  "languageKorean": "Korean",
+  "@languageKorean": {
+    "description": "Korean language name"
+  },
+
+  "languageChineseTraditional": "Traditional Chinese",
+  "@languageChineseTraditional": {
+    "description": "Traditional Chinese language name"
+  },
+
+  "displayLanguage": "Display Language",
+  "@displayLanguage": {
+    "description": "Display language selector label"
+  },
+
+  "translationFeature": "Downloader",
+  "@translationFeature": {
+    "description": "Downloader feature navigation item"
+  },
+
+  "aboutFeature": "About",
+  "@aboutFeature": {
+    "description": "About feature navigation item"
+  },
+
+  "youtubeVideoDownloader": "YouTube Video Downloader",
+  "@youtubeVideoDownloader": {
+    "description": "Main downloader section title"
+  },
+
+  "youtubeUrl": "YouTube URL",
+  "@youtubeUrl": {
+    "description": "YouTube URL input label"
+  },
+
+  "youtubeUrlPlaceholder": "https://www.youtube.com/watch?v=...",
+  "@youtubeUrlPlaceholder": {
+    "description": "YouTube URL input placeholder"
+  },
+
+  "outputPath": "Output Path (Optional)",
+  "@outputPath": {
+    "description": "Output path input label"
+  },
+
+  "outputPathPlaceholder": "Leave empty for default Downloads folder",
+  "@outputPathPlaceholder": {
+    "description": "Output path input placeholder"
+  },
+
+  "downloadVideo": "Download Video",
+  "@downloadVideo": {
+    "description": "Download button text"
+  },
+
+  "downloading": "Downloading...",
+  "@downloading": {
+    "description": "Download button text when downloading"
+  },
+
+  "downloadOptions": "Download Options",
+  "@downloadOptions": {
+    "description": "Download options section title"
+  },
+
+  "format": "Format",
+  "@format": {
+    "description": "Format selector label"
+  },
+
+  "quality": "Quality",
+  "@quality": {
+    "description": "Quality selector label"
+  },
+
+  "audioOnly": "Audio Only",
+  "@audioOnly": {
+    "description": "Audio only checkbox label"
+  },
+
+  "audioOnlyDescription": "Download only the audio track",
+  "@audioOnlyDescription": {
+    "description": "Audio only checkbox description"
+  },
+
+  "downloadSubtitles": "Download Subtitles",
+  "@downloadSubtitles": {
+    "description": "Download subtitles checkbox label"
+  },
+
+  "downloadSubtitlesDescription": "Download available subtitles",
+  "@downloadSubtitlesDescription": {
+    "description": "Download subtitles checkbox description"
+  },
+
+  "pasteFromClipboard": "Paste from clipboard",
+  "@pasteFromClipboard": {
+    "description": "Paste button tooltip"
+  },
+
+  "selectDownloadFolder": "Select download folder",
+  "@selectDownloadFolder": {
+    "description": "Folder selection button tooltip"
+  },
+
+  "pleaseEnterValidUrl": "Please enter a valid YouTube URL",
+  "@pleaseEnterValidUrl": {
+    "description": "Error message for invalid URL"
+  },
+
+  "failedToPasteFromClipboard": "Failed to paste from clipboard",
+  "@failedToPasteFromClipboard": {
+    "description": "Error message for clipboard paste failure"
+  },
+
+  "setupHelp": "Setup Help",
+  "@setupHelp": {
+    "description": "Setup help dialog title"
+  },
+
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+
+  "retrySetup": "Retry Setup",
+  "@retrySetup": {
+    "description": "Retry setup button text"
+  },
+
+  "downloadInformation": "Download Information",
+  "@downloadInformation": {
+    "description": "Download information section title"
+  },
+
+  "ytdlpSetup": "yt-dlp Setup",
+  "@ytdlpSetup": {
+    "description": "yt-dlp setup navigation item"
+  },
+
+  "downloadQueue": "Download Queue",
+  "@downloadQueue": {
+    "description": "Download queue navigation item"
+  },
+
+  "embeddedYtdlpStatus": "Embedded yt-dlp Status",
+  "@embeddedYtdlpStatus": {
+    "description": "Embedded yt-dlp status section title"
+  },
+
+  "downloaderFeature": "YouTube Downloader",
+  "@downloaderFeature": {
+    "description": "Downloader feature name"
+  },
+
+  "queueFeature": "Download Queue",
+  "@queueFeature": {
+    "description": "Queue feature name"
+  },
+
+  "setupFeature": "yt-dlp Setup",
+  "@setupFeature": {
+    "description": "Setup feature name"
+  },
+
+  "downloadVideo": "Download Video",
+  "@downloadVideo": {
+    "description": "Download video section title"
+  },
+
+  "youtubeUrl": "YouTube URL",
+  "@youtubeUrl": {
+    "description": "YouTube URL input label"
+  },
+
+  "youtubeUrlPlaceholder": "https://www.youtube.com/watch?v=...",
+  "@youtubeUrlPlaceholder": {
+    "description": "YouTube URL input placeholder"
+  },
+
+  "downloadPath": "Download Path",
+  "@downloadPath": {
+    "description": "Download path input label"
+  },
+
+  "quality": "Quality",
+  "@quality": {
+    "description": "Quality selector label"
+  },
+
+  "format": "Format",
+  "@format": {
+    "description": "Format selector label"
+  },
+
+  "audioOnly": "Audio Only",
+  "@audioOnly": {
+    "description": "Audio only option label"
+  },
+
+  "audioOnlyDescription": "Download only the audio track",
+  "@audioOnlyDescription": {
+    "description": "Audio only option description"
+  },
+
+  "subtitles": "Subtitles",
+  "@subtitles": {
+    "description": "Subtitles option label"
+  },
+
+  "subtitlesDescription": "Download available subtitles",
+  "@subtitlesDescription": {
+    "description": "Subtitles option description"
+  },
+
+  "additionalOptions": "Additional Options",
+  "@additionalOptions": {
+    "description": "Additional options section title"
+  },
+
+  "downloadOptions": "Download Options",
+  "@downloadOptions": {
+    "description": "Download options section title"
+  },
+
+  "download": "Download",
+  "@download": {
+    "description": "Download button text"
+  },
+
+  "adding": "Adding...",
+  "@adding": {
+    "description": "Download button text when adding to queue"
+  },
+
+  "pasteFromClipboard": "Paste from clipboard",
+  "@pasteFromClipboard": {
+    "description": "Paste from clipboard tooltip"
+  },
+
+  "selectFolder": "Select folder",
+  "@selectFolder": {
+    "description": "Select folder tooltip"
+  },
+
+  "openFolder": "Open folder",
+  "@openFolder": {
+    "description": "Open folder tooltip"
+  },
+
+  "editFolder": "Edit folder",
+  "@editFolder": {
+    "description": "Edit folder tooltip"
+  },
+
+  "setupRequired": "Setup Required",
+  "@setupRequired": {
+    "description": "Setup required section title"
+  },
+
+  "setupRequiredMessage": "yt-dlp is not installed or ready. You need to set it up before you can download videos.",
+  "@setupRequiredMessage": {
+    "description": "Setup required message"
+  },
+
+  "goToSetup": "Go to Setup",
+  "@goToSetup": {
+    "description": "Go to setup button text"
+  },
+
+  "noDownloads": "No downloads",
+  "@noDownloads": {
+    "description": "No downloads status text"
+  },
+
+  "active": "active",
+  "@active": {
+    "description": "Active downloads status text"
+  },
+
+  "queued": "queued",
+  "@queued": {
+    "description": "Queued downloads status text"
+  },
+
+  "completed": "completed",
+  "@completed": {
+    "description": "Completed downloads status text"
+  },
+
+  "queuedTab": "Queued",
+  "@queuedTab": {
+    "description": "Queued tab label"
+  },
+
+  "activeTab": "Active",
+  "@activeTab": {
+    "description": "Active tab label"
+  },
+
+  "completedTab": "Done",
+  "@completedTab": {
+    "description": "Completed tab label"
+  },
+
+  "failedTab": "Failed",
+  "@failedTab": {
+    "description": "Failed tab label"
+  },
+
+  "noQueuedDownloads": "No downloads in queue",
+  "@noQueuedDownloads": {
+    "description": "No queued downloads message"
+  },
+
+  "noActiveDownloads": "No active downloads",
+  "@noActiveDownloads": {
+    "description": "No active downloads message"
+  },
+
+  "noCompletedDownloads": "No completed downloads",
+  "@noCompletedDownloads": {
+    "description": "No completed downloads message"
+  },
+
+  "noFailedDownloads": "No failed downloads",
+  "@noFailedDownloads": {
+    "description": "No failed downloads message"
+  },
+
+  "removeFromQueue": "Remove from queue",
+  "@removeFromQueue": {
+    "description": "Remove from queue tooltip"
+  },
+
+  "cancelDownload": "Cancel download",
+  "@cancelDownload": {
+    "description": "Cancel download tooltip"
+  },
+
+  "retryDownload": "Retry download",
+  "@retryDownload": {
+    "description": "Retry download tooltip"
+  },
+
+  "showDetails": "Show details",
+  "@showDetails": {
+    "description": "Show details tooltip"
+  },
+
+  "showErrorDetails": "Show error details",
+  "@showErrorDetails": {
+    "description": "Show error details tooltip"
+  },
+
+  "openFileLocation": "Open file location",
+  "@openFileLocation": {
+    "description": "Open file location tooltip"
+  },
+
+  "concurrentDownloads": "Concurrent Downloads",
+  "@concurrentDownloads": {
+    "description": "Concurrent downloads setting title"
+  },
+
+  "maxConcurrentDownloads": "Maximum number of simultaneous downloads:",
+  "@maxConcurrentDownloads": {
+    "description": "Max concurrent downloads description"
+  },
+
+  "clearCompleted": "Clear Completed",
+  "@clearCompleted": {
+    "description": "Clear completed downloads menu item"
+  },
+
+  "clearFailed": "Clear Failed",
+  "@clearFailed": {
+    "description": "Clear failed downloads menu item"
+  },
+
+  "clearAll": "Clear All",
+  "@clearAll": {
+    "description": "Clear all downloads menu item"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+
+  "ytdlpStatus": "yt-dlp Status",
+  "@ytdlpStatus": {
+    "description": "yt-dlp status section title"
+  },
+
+  "ytdlpReady": "Ready",
+  "@ytdlpReady": {
+    "description": "yt-dlp ready status"
+  },
+
+  "ytdlpNotReady": "Not Ready",
+  "@ytdlpNotReady": {
+    "description": "yt-dlp not ready status"
+  },
+
+  "checking": "Checking...",
+  "@checking": {
+    "description": "Checking status text"
+  },
+
+  "actions": "Actions",
+  "@actions": {
+    "description": "Actions section title"
+  },
+
+  "installYtdlp": "Install yt-dlp",
+  "@installYtdlp": {
+    "description": "Install yt-dlp button text"
+  },
+
+  "installing": "Installing...",
+  "@installing": {
+    "description": "Installing status text"
+  },
+
+  "update": "Update",
+  "@update": {
+    "description": "Update button text"
+  },
+
+  "updating": "Updating...",
+  "@updating": {
+    "description": "Updating status text"
+  },
+
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button text"
+  },
+
+  "versionManagement": "Version Management",
+  "@versionManagement": {
+    "description": "Version management section title"
+  },
+
+  "availableVersions": "Available Versions:",
+  "@availableVersions": {
+    "description": "Available versions label"
+  },
+
+  "currentVersion": "Current",
+  "@currentVersion": {
+    "description": "Current version badge text"
+  },
+
+  "installSelectedVersion": "Install Selected Version",
+  "@installSelectedVersion": {
+    "description": "Install selected version button text"
+  },
+
+  "loadingVersions": "Loading available versions...",
+  "@loadingVersions": {
+    "description": "Loading versions message"
+  },
+
+  "unableToLoadVersions": "Unable to load available versions. Check your internet connection.",
+  "@unableToLoadVersions": {
+    "description": "Unable to load versions error message"
+  },
+
+  "aboutYtdlp": "About yt-dlp",
+  "@aboutYtdlp": {
+    "description": "About yt-dlp section title"
+  },
+
+  "ytdlpDescription": "yt-dlp is a powerful command-line program to download videos from YouTube and other sites. This app automatically downloads and manages the yt-dlp binary for you.",
+  "@ytdlpDescription": {
+    "description": "yt-dlp description text"
+  },
+
+  "features": "Features:",
+  "@features": {
+    "description": "Features list title"
+  },
+
+  "downloadStatus": "Download Status",
+  "@downloadStatus": {
+    "description": "Download status section title"
+  },
+
+  "pathInfo": "Path Information",
+  "@pathInfo": {
+    "description": "Path information section title"
+  },
+
+  "filesSavedTo": "Files will be saved to:",
+  "@filesSavedTo": {
+    "description": "Files saved to label"
+  },
+
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading text"
+  },
+
+  "queueSummary": "Download Queue Summary",
+  "@queueSummary": {
+    "description": "Queue summary section title"
+  },
+
+  "successRate": "Success Rate:",
+  "@successRate": {
+    "description": "Success rate label"
+  },
+
+  "maxConcurrent": "Max Concurrent:",
+  "@maxConcurrent": {
+    "description": "Max concurrent label"
+  },
+
+  "downloadAddedToQueue": "Download added to queue! Check the Queue tab to monitor progress.",
+  "@downloadAddedToQueue": {
+    "description": "Download added to queue success message"
+  },
+
+  "pleaseEnterValidUrl": "Please enter a valid YouTube URL",
+  "@pleaseEnterValidUrl": {
+    "description": "Invalid URL error message"
+  },
+
+  "ytdlpNotAvailable": "yt-dlp is not available. Please check your internet connection and restart the app.",
+  "@ytdlpNotAvailable": {
+    "description": "yt-dlp not available error message"
+  },
+
+  "cannotCreateDirectory": "Cannot create download directory",
+  "@cannotCreateDirectory": {
+    "description": "Cannot create directory error message"
+  },
+
+  "noWritePermission": "No write permission for directory",
+  "@noWritePermission": {
+    "description": "No write permission error message"
+  },
+
+  "failedToAddToQueue": "Failed to add to queue",
+  "@failedToAddToQueue": {
+    "description": "Failed to add to queue error message"
+  },
+
+  "failedToPasteFromClipboard": "Failed to paste from clipboard",
+  "@failedToPasteFromClipboard": {
+    "description": "Failed to paste from clipboard error message"
+  },
+
+  "failedToSelectFolder": "Failed to select folder",
+  "@failedToSelectFolder": {
+    "description": "Failed to select folder error message"
+  },
+
+  "couldNotOpenFolder": "Could not open folder",
+  "@couldNotOpenFolder": {
+    "description": "Could not open folder error message"
+  },
+
+  "ytdlpInitializedSuccessfully": "yt-dlp initialized successfully!",
+  "@ytdlpInitializedSuccessfully": {
+    "description": "yt-dlp initialized successfully message"
+  },
+
+  "ytdlpDeletedSuccessfully": "yt-dlp deleted successfully!",
+  "@ytdlpDeletedSuccessfully": {
+    "description": "yt-dlp deleted successfully message"
+  },
+
+  "deleteYtdlpConfirmTitle": "Delete yt-dlp",
+  "@deleteYtdlpConfirmTitle": {
+    "description": "Delete yt-dlp confirmation title"
+  },
+
+  "deleteYtdlpConfirmMessage": "Are you sure you want to delete the yt-dlp binary? You will need to download it again to use the app.",
+  "@deleteYtdlpConfirmMessage": {
+    "description": "Delete yt-dlp confirmation message"
+  },
+
+  "aboutPageTitle": "About",
+  "@aboutPageTitle": {
+    "description": "About page title"
+  },
+
+  "aboutAppTitle": "Boost Your Stream",
+  "@aboutAppTitle": {
+    "description": "About section app title"
+  },
+
+  "aboutAppDescription": "A powerful streaming toolkit designed to enhance your content creation workflow. Download YouTube videos, manage your content library, and boost your streaming experience with professional-grade tools.",
+  "@aboutAppDescription": {
+    "description": "About section app description"
+  },
+
+  "keyFeaturesTitle": "Key Features:",
+  "@keyFeaturesTitle": {
+    "description": "Key features section title"
+  },
+
+  "featureVideoDownload": "• Download YouTube videos and playlists",
+  "@featureVideoDownload": {
+    "description": "Video download feature"
+  },
+
+  "featureMultipleFormats": "• Multiple format and quality options",
+  "@featureMultipleFormats": {
+    "description": "Multiple formats feature"
+  },
+
+  "featureAudioDownload": "• Audio-only download support",
+  "@featureAudioDownload": {
+    "description": "Audio download feature"
+  },
+
+  "featureSubtitleDownload": "• Subtitle download capability",
+  "@featureSubtitleDownload": {
+    "description": "Subtitle download feature"
+  },
+
+  "featureCleanInterface": "• Clean and intuitive interface",
+  "@featureCleanInterface": {
+    "description": "Clean interface feature"
+  },
+
+  "featureCrossPlatform": "• Cross-platform compatibility",
+  "@featureCrossPlatform": {
+    "description": "Cross-platform feature"
+  },
+
+  "videoDownloadCardTitle": "Video Download",
+  "@videoDownloadCardTitle": {
+    "description": "Video download card title"
+  },
+
+  "videoDownloadCardDescription": "Download YouTube videos in various formats",
+  "@videoDownloadCardDescription": {
+    "description": "Video download card description"
+  },
+
+  "qualityOptionsCardTitle": "Quality Options",
+  "@qualityOptionsCardTitle": {
+    "description": "Quality options card title"
+  },
+
+  "qualityOptionsCardDescription": "Choose from multiple quality settings",
+  "@qualityOptionsCardDescription": {
+    "description": "Quality options card description"
+  },
+
+  "developerTitle": "Developer",
+  "@developerTitle": {
+    "description": "Developer section title"
+  },
+
+  "developerName": "FuyukiSakura (冬雪桜)",
+  "@developerName": {
+    "description": "Developer name"
+  },
+
+  "socialLinksTitle": "Connect with me:",
+  "@socialLinksTitle": {
+    "description": "Social links section title"
+  },
+
+  "githubRepo": "GitHub Repository",
+  "@githubRepo": {
+    "description": "GitHub repository link text"
+  },
+
+  "twitterProfile": "Twitter/X Profile",
+  "@twitterProfile": {
+    "description": "Twitter profile link text"
+  },
+
+  "youtubeChannel": "YouTube Channel",
+  "@youtubeChannel": {
+    "description": "YouTube channel link text"
+  },
+
+  "twitchChannel": "Twitch Channel",
+  "@twitchChannel": {
+    "description": "Twitch channel link text"
+  }
+} 
